@@ -14,6 +14,7 @@
 				},
 				{
 					"name": "Hydrodynamics",
+					"loop": "qwe12",
 					"complexity": "4",
 					"interest": "3",
 					"bool": false
