@@ -31,9 +31,9 @@ Du kannst auch:
 
 - Importieren und speichern Sie Dateien von GitHub, Dropbox, Google Drive und One Drive
 - Ziehen Sie Markdown- und HTML-Dateien per Drag-and-Drop in Dillinger
-- Export documents as Markdown, HTML and PDF
+- Exportieren Sie Dokumente als Markdown, HTML und PDF
 
-Markdown is a lightweight markup language based on the formatting conventions that people naturally use in email.  As [John Gruber] writes on the [Markdown site][df1]
+Markdown ist eine leichtgewichtige Auszeichnungssprache, die auf den Formatierungskonventionen basiert, die Menschen normalerweise in E-Mails verwenden. Wie [John Gruber] auf der [Markdown-Site][df1] schreibt
 
 > Das übergeordnete Designziel für die Formatierungssyntax von Markdown besteht darin, sie so lesbar wie möglich zu machen. Die Idee ist, dass ein Markdown-formatiertes Dokument so wie es ist, als reiner Text veröffentlicht werden kann, ohne dass es so aussieht, als wäre es mit Tags oder Formatierungsanweisungen markiert worden.
 
@@ -41,7 +41,7 @@ Dieser Text, den Sie hier sehen, ist <a>tatsächlich</a> in Markdown geschrieben
 
 ### FALSCH
 
-Dillinger uses a number of open source projects to work properly:
+Dillinger verwendet eine Reihe von Open-Source-Projekten, um ordnungsgemäß zu funktionieren:
 
 - [AngularJS] - HTML verbessert für Web-Apps!
 - [Ace Editor] - fantastischer webbasierter Texteditor
@@ -53,7 +53,7 @@ Dillinger uses a number of open source projects to work properly:
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML-zu-Markdown-Konverter
 - [jQuery] - haha
 
-And of course Dillinger itself is open source with a [public repository][dill] on GitHub.
+Und natürlich ist Dillinger selbst Open Source mit einem [öffentlichen Repository][dill] auf GitHub.
 
 ### Installation
 
@@ -66,7 +66,7 @@ Installieren Sie die Abhängigkeiten und devDependencies und starten Sie den Ser
 ```sh
 $ cd dillinger
 $ npm install -d
-$ node app
+$-Knoten-App
 ```
 
 Für Produktionsumgebungen...
